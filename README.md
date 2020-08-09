@@ -2,30 +2,31 @@
 <!-- <hr> -->
 <p>
   <a href="https://portfolio.tskk97.in">
-    <img src="https://image.flaticon.com/icons/svg/265/265674.svg" width="26px" style="margin:2px 10px" />
+    <img align="left" src="https://image.flaticon.com/icons/svg/265/265674.svg" width="26px" />
   </a>
   <a href="https://www.facebook.com/tskk97/">
-    <img src="https://image.flaticon.com/icons/svg/1384/1384053.svg" width="26px" style="margin:2px 10px" />
+    <img align="left" src="https://image.flaticon.com/icons/svg/1384/1384053.svg" width="26px" />
   </a>
    <a href="https://twitter.com/tskk_97">
-    <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="32px" style="margin:-2px 10px" />
+    <img align="left" src="https://image.flaticon.com/icons/svg/733/733579.svg" width="32px"  />
   </a>
   <a href="mailto:skktangirala@gmail.com">
-    <img src="https://image.flaticon.com/icons/svg/732/732200.svg" width="32px" style="margin:-2px 10px" />
+    <img align="left" src="https://image.flaticon.com/icons/svg/732/732200.svg" width="32px"  />
   </a>
   <a href="https://www.linkedin.com/in/tskk97/">
-    <img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="28px" style="margin:0 10px" />
+    <img align="left" src="https://image.flaticon.com/icons/svg/174/174857.svg" width="28px" />
   </a>
   <a href="https://www.instagram.com/tskk97/">
-    <img src="https://image.flaticon.com/icons/svg/174/174855.svg" width="30px" style="margin:0 10px" />
+    <img align="left" src="https://image.flaticon.com/icons/svg/174/174855.svg" width="30px" />
   </a>
   <a href="https://www.hackerrank.com/tskk97">
-    <img src="https://brandfolder.com/hackerrank/logo/hackerrank-primary-logo.png" width="30px" style="margin:-1px 10px" />
+    <img align="left" src="https://brandfolder.com/hackerrank/logo/hackerrank-primary-logo.png" width="30px"  />
   </a>
 </p>
 
+<br>
 
-<img align="right" src="https://1.bp.blogspot.com/-vGjqXxievU0/VttxkHB51qI/AAAAAAAAB8E/e-DPTjo0ZHY/s1600/fun1.gif" width="550px" ></img>
+<img align="right" src="https://media0.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif?cid=ecf05e47axse3z79m99qlstooai6bbw4cfaapzsnm52jwdpm&rid=giphy.gif" width="550px" >
 <h3>About Me:</h1>
 <ul>
   <li>🔭 I’m currently working on React,Flask.</li>
@@ -63,8 +64,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tskk97&theme=monokai&hide_langs_below=1&layout=compact" />
 <img src="https://github-readme-stats.vercel.app/api?username=tskk97&count_private=true&show_icons=true&theme=monokai&hide=contribs" alt="stats" style="margin:0 20px" />
 </p>
-
-<hr/>
 
 
 
