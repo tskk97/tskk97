@@ -61,8 +61,8 @@
 
 <h3> Quick Stats: </h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tskk97&theme=monokai&hide_langs_below=1&layout=compact" />
-<img src="https://github-readme-stats.vercel.app/api?username=tskk97&count_private=true&show_icons=true&theme=monokai&hide=contribs" alt="stats" style="margin:0 20px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tskk97&theme=monokai&hide_langs_below=1&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tskk97&count_private=true&show_icons=true&theme=monokai&hide=contribs" alt="stats" style="margin:0 20px" />
 </p>
 
 
