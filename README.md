@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/tskk97/">
     <img align="left" src="https://image.flaticon.com/icons/svg/174/174857.svg" width="28px" />
   </a>
-  <a href="tel:+919559695847">
+  <a href="https://wa.me/+919559695847">
     <img align="left" src="https://image.flaticon.com/icons/svg/2111/2111728.svg" width="28px" />
   </a>
   <a href="https://www.instagram.com/tskk97/">
