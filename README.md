@@ -24,19 +24,16 @@
   </a>
 </p>
 
-<br>
+<br><br><br>
 
-<img align="right" src="https://media0.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif?cid=ecf05e47axse3z79m99qlstooai6bbw4cfaapzsnm52jwdpm&rid=giphy.gif" width="550px" >
+<img align="right" src="https://media0.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif?cid=ecf05e47axse3z79m99qlstooai6bbw4cfaapzsnm52jwdpm&rid=giphy.gif" width="500px" >
 <h3>About Me:</h1>
 <ul>
-  <li>🔭 I’m currently working on React,Flask.</li>
-  <li>🌱 I’m currently looking for a job.</li>
-  <li>📫 How to reach me: skktangirala@gmail.com.</li>
-  <li>💬 Ask me about anything, I am happy to help;</li>
-  <li>🔭 I’m currently working on React,Flask.</li>
-  <li>🌱 I’m currently looking for a job.</li>
-  <li>📫 How to reach me: skktangirala@gmail.com.</li>
-  <li>💬 Ask me about anything, I am happy to help;</li>
+  <li>😄 I'm an aspiring Full-Stack Developer, proficient in both frontend and backend technologies, data structures and algorithms.</li>
+  <li>⚡ Ablity to create end-to-end applications effectively, either independently or in a team collaboration.</li>
+  <li>🔭 Seeking opportunity to join an organization where I can contribute towards individual and company's growth.</li>
+  <li>📫 How to reach me: <a href="mailto:skktangirala@gmail.com">skktangirala@gmail.com</a></li>
+  <li>💬 Ask me about anything, I am happy to help!</li>
 </ul>
 
 <h3> Technologies and Tools: </h3>
