@@ -1,4 +1,4 @@
-<h1>Hey there! I'm Saikiran 👋 <img align="right" src="https://komarev.com/ghpvc/?username=tskk97" alt="tskk97" /></h1>
+<h1>Hey there! I'm Saikiran 👋</h1>
 
 <p>
   <a href="https://portfolio.tskk97.in">
