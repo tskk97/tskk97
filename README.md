@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<br><br><br>
+<br><br>
 
 <img align="right" src="https://media0.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif?cid=ecf05e47axse3z79m99qlstooai6bbw4cfaapzsnm52jwdpm&rid=giphy.gif" width="500px" >
 <h3>About Me:</h1>
