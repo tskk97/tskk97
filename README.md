@@ -30,7 +30,7 @@
 <br><br>
 
 <h3>About Me:</h3>
-<img align="right" src="https://media0.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif?cid=ecf05e47axse3z79m99qlstooai6bbw4cfaapzsnm52jwdpm&rid=giphy.gif" width="430px" height="260px" style="margin:-35px 0" >
+<!-- <img align="right" src="https://media0.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif?cid=ecf05e47axse3z79m99qlstooai6bbw4cfaapzsnm52jwdpm&rid=giphy.gif" width="430px" height="260px" style="margin:-35px 0" > -->
 <ul>
   <li>😄 I'm an aspiring Full-Stack Developer, proficient in both Frontend and Backend technologies, data structures and algorithms.</li>
   <li>⚡ Ability to create end-to-end applications effectively, either independently or in a team collaboration.</li>
