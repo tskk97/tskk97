@@ -1,28 +1,28 @@
 <h1>Hey there! I'm Saikiran 👋</h1>
 
 <p>
-  <a href="https://portfolio.tskk97.in">
+  <a title="Portfolio" href="https://portfolio.tskk97.in">
     <img align="left" src="https://www.svgrepo.com/show/384670/account-avatar-profile-user.svg" width="28px" />
   </a>
-  <a href="https://www.facebook.com/tskk97/">
+  <a title="Facebook" href="https://www.facebook.com/tskk97/">
     <img align="left" src="https://www.svgrepo.com/show/111203/facebook.svg" width="26px" />
   </a>
-   <a href="https://twitter.com/tskk_97">
+   <a title="Twitter" href="https://twitter.com/tskk_97">
     <img align="left" src="https://www.svgrepo.com/show/157815/twitter.svg" width="28px"  />
   </a>
-  <a href="mailto:skktangirala@gmail.com">
+  <a title="Gmail" href="mailto:skktangirala@gmail.com">
     <img align="left" src="https://www.svgrepo.com/show/353812/google-gmail.svg" width="28px"  />
   </a>
-  <a href="https://www.linkedin.com/in/tskk97/">
+  <a title="LinkedIn" href="https://www.linkedin.com/in/tskk97/">
     <img align="left" src="https://www.svgrepo.com/show/157006/linkedin.svg" width="26px" />
   </a>
-  <a href="https://wa.me/+919559695847">
+  <a title="WhatsApp" href="https://wa.me/+919559695847">
     <img align="left" src="https://www.svgrepo.com/show/349563/whatsapp.svg" width="28px" />
   </a>
-  <a href="https://www.instagram.com/tskk97/">
+  <a title="Instagram" href="https://www.instagram.com/tskk97/">
     <img align="left" src="https://www.svgrepo.com/show/111199/instagram.svg" width="28px" />
   </a>
-  <a href="https://www.hackerrank.com/tskk97">
+  <a title="HackerRank" href="https://www.hackerrank.com/tskk97">
     <img align="left" src="https://brandfolder.com/hackerrank/logo/hackerrank-primary-logo.png" width="30px"  />
   </a>
 </p>
@@ -32,9 +32,9 @@
 <h3>About Me:</h3>
 <!-- <img align="right" src="https://media0.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif?cid=ecf05e47axse3z79m99qlstooai6bbw4cfaapzsnm52jwdpm&rid=giphy.gif" width="430px" height="260px" style="margin:-35px 0" > -->
 <ul>
-  <li>😄 I'm an aspiring Full-Stack Developer, proficient in both Frontend and Backend technologies, data structures and algorithms.</li>
-  <li>⚡ Ability to create end-to-end applications effectively, either independently or in a team collaboration.</li>
-  <li>🔭 Seeking opportunity to join an organisation where I can contribute towards individual and company's growth.</li>
+  <li>😄 I'm a Full-Stack Developer, proficient in both Frontend and Backend technologies, data structures and algorithms.</li>
+<!--   <li>⚡ Ability to create end-to-end applications effectively, either independently or in a team collaboration.</li> -->
+<!--   <li>🔭 Seeking opportunity to join an organisation where I can contribute towards individual and company's growth.</li> -->
   <li>📫 How to reach me: <a href="mailto:skktangirala@gmail.com">skktangirala@gmail.com</a></li>
   <li>💬 Ask me about anything, I am happy to help!</li>
 </ul>
@@ -44,16 +44,18 @@
 <p>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/> -->
   <br>
-  <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
-  <!-- <br> -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <!-- <br> -->
   <img src="https://img.shields.io/badge/GIT%20-%23cb3a37.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/NPM%20-%23cb3a37.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
