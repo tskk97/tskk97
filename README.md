@@ -2,25 +2,25 @@
 
 <p>
   <a href="https://portfolio.tskk97.in">
-    <img align="left" src="https://image.flaticon.com/icons/svg/265/265674.svg" width="26px" />
+    <img align="left" src="https://www.svgrepo.com/show/384670/account-avatar-profile-user.svg" width="28px" />
   </a>
   <a href="https://www.facebook.com/tskk97/">
-    <img align="left" src="https://image.flaticon.com/icons/svg/1384/1384053.svg" width="26px" />
+    <img align="left" src="https://www.svgrepo.com/show/111203/facebook.svg" width="26px" />
   </a>
    <a href="https://twitter.com/tskk_97">
-    <img align="left" src="https://image.flaticon.com/icons/svg/733/733579.svg" width="32px"  />
+    <img align="left" src="https://www.svgrepo.com/show/157815/twitter.svg" width="28px"  />
   </a>
   <a href="mailto:skktangirala@gmail.com">
-    <img align="left" src="https://image.flaticon.com/icons/svg/732/732200.svg" width="32px"  />
+    <img align="left" src="https://www.svgrepo.com/show/353812/google-gmail.svg" width="28px"  />
   </a>
   <a href="https://www.linkedin.com/in/tskk97/">
-    <img align="left" src="https://image.flaticon.com/icons/svg/174/174857.svg" width="28px" />
+    <img align="left" src="https://www.svgrepo.com/show/157006/linkedin.svg" width="26px" />
   </a>
   <a href="https://wa.me/+919559695847">
-    <img align="left" src="https://image.flaticon.com/icons/svg/2111/2111728.svg" width="32px" />
+    <img align="left" src="https://www.svgrepo.com/show/349563/whatsapp.svg" width="28px" />
   </a>
   <a href="https://www.instagram.com/tskk97/">
-    <img align="left" src="https://image.flaticon.com/icons/svg/174/174855.svg" width="30px" />
+    <img align="left" src="https://www.svgrepo.com/show/111199/instagram.svg" width="28px" />
   </a>
   <a href="https://www.hackerrank.com/tskk97">
     <img align="left" src="https://brandfolder.com/hackerrank/logo/hackerrank-primary-logo.png" width="30px"  />
