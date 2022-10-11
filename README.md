@@ -36,8 +36,11 @@
 <!--   <li>⚡ Ability to create end-to-end applications effectively, either independently or in a team collaboration.</li> -->
 <!--   <li>🔭 Seeking opportunity to join an organisation where I can contribute towards individual and company's growth.</li> -->
   <li>📫 How to reach me: <a href="mailto:skktangirala@gmail.com">skktangirala@gmail.com</a></li>
-  <li>💬 Ask me about anything, I am happy to help!</li>
+  <li>💬 Ask me about anything, I am happy to help!</li>  
 </ul>
+
+![](https://komarev.com/ghpvc/?username=tskk97)
+
 <br>
 
 <h3> Technologies and Tools: </h3>
