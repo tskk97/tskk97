@@ -1,7 +1,7 @@
 <h1>Hey there! I'm Saikiran 👋</h1>
 
 <p>
-  <a title="Portfolio" href="https://portfolio.tskk97.in">
+  <a title="Portfolio" href="https://tskk97.github.io/my-portfolio/">
     <img align="left" src="https://www.svgrepo.com/show/384670/account-avatar-profile-user.svg" width="28px" />
   </a>
   <a title="Facebook" href="https://www.facebook.com/tskk97/">
@@ -17,13 +17,13 @@
     <img align="left" src="https://www.svgrepo.com/show/157006/linkedin.svg" width="26px" />
   </a>
   <a title="WhatsApp" href="https://wa.me/+919559695847">
-    <img align="left" src="https://www.svgrepo.com/show/349563/whatsapp.svg" width="28px" />
+    <img align="left" src="https://www.svgrepo.com/show/303150/whatsapp-symbol-logo.svg" width="30px" />
   </a>
   <a title="Instagram" href="https://www.instagram.com/tskk97/">
     <img align="left" src="https://www.svgrepo.com/show/111199/instagram.svg" width="28px" />
   </a>
   <a title="HackerRank" href="https://www.hackerrank.com/tskk97">
-    <img align="left" src="https://brandfolder.com/hackerrank/logo/hackerrank-primary-logo.png" width="30px"  />
+    <img align="left" src="https://www.svgrepo.com/show/330599/hackerrank.svg" width="27px" />
   </a>
 </p>
 
@@ -56,6 +56,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <!-- <br> -->
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT%20-%23cb3a37.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/NPM%20-%23cb3a37.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
